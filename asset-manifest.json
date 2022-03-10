@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/protein-wordle/static/css/main.05df1cba.css",
+    "main.js": "/protein-wordle/static/js/main.99a6322c.js",
+    "static/js/787.b3f9d252.chunk.js": "/protein-wordle/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/protein-wordle/index.html",
+    "main.05df1cba.css.map": "/protein-wordle/static/css/main.05df1cba.css.map",
+    "main.99a6322c.js.map": "/protein-wordle/static/js/main.99a6322c.js.map",
+    "787.b3f9d252.chunk.js.map": "/protein-wordle/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05df1cba.css",
+    "static/js/main.99a6322c.js"
+  ]
+}
