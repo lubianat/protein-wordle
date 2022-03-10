@@ -2,7 +2,6 @@ import {
   InformationCircleIcon,
   ChartBarIcon,
   CogIcon,
-  LightBulbIcon,
 } from '@heroicons/react/outline'
 import { useState, useEffect } from 'react'
 import { Grid } from './components/grid/Grid'
